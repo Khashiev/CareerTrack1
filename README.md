@@ -19,6 +19,9 @@
 5. [Chapter V](#chapter-v) 
 
 <h2 id="chapter-i" >Chapter I</h2>
+
+![Иллюстрация к проекту](misc/images/Illustration_01.jpeg)  
+
 <h2 id="preamble">Preamble</h2> 
 
 В рамках проекта ты пройдешь необходимые этапы перед составлением резюме, в глобальном смысле - аналитикой: 
