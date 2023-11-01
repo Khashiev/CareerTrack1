@@ -1,288 +1,294 @@
 # Career track. Project 01
-  
-В данном проекте ты познакомишься с основными этапами поиска работы, анализом вакансий, где и как искать позиции, которые релевантны твоему опыту. 
+
+In this project, you'll learn the main stages of job search, how to analyze job postings, where and how to search for positions that are relevant to your experience.
 
 ## Contents
 
-1. [Chapter I](#chapter-i) \
-    1.1. [Preamble](#preamble)
-2. [Chapter II](#chapter-ii) \
-    2.1. [General rules](#general-rules)
-3. [Chapter III](#chapter-iii) \
-    3.1. Аналитика рынка. Где и как искать вакансии и программы стажировок?      
-    3.2. Советы поиска вакансий через сайты агрегаторы вакансий и карьерные сайты компаний.     
-    3.3. Анализ навыков: hard и soft skills. Как анализировать навыки для написания резюме.     
-    3.4. Анализ требований к кандидатам.  
-4. [Chapter IV](#chapter-iv) \
-    [Задача](#задача)    
+1. [Chapter I](#chapter-i)  
+ 1.1. [Preamble](#preamble)  
+2. [Chapter II](#chapter-ii)  
+ 2.1. [General rules](#general-rules)  
+3. [Chapter III](#chapter-iii)  
+ 3.1. Market analytics. Where and how to search for job openings and internship programs?  
+ 3.2. Tips for job searching through job aggregators and company career websites.  
+ 3.3. Skills analysis: hard and soft skills. How to analyze resume writing skills.  
+ 3.4. Analysis of candidate requirements.
+4. [Chapter IV](#chapter-iv)  
+ [Task](#task)  
 5. [Chapter V](#chapter-v) 
 
-<h2 id="chapter-i" >Chapter I</h2>
+## Chapter I
 
-![Иллюстрация к проекту](misc/images/Illustration_01.jpeg)  
+![Иллюстрация к проекту](misc/images/Illustration_01.jpeg)
 
-<h2 id="preamble">Preamble</h2> 
+## Preamble
 
-Представленный проект закладывает прохождение ключевых этапов перед составлением резюме, в частности проведение аналитики: 
-1. Анализ рынка вакансий и стажировок. Где и как искать программы стажировок?  
-2. Анализ твоих навыков: hard и soft skills. Как анализировать твои навыки для составления резюме? 
-3. Советы поиска вакансий через сайты агрегаторы вакансий и карьерные сайты компаний. 
-4. Анализ откликов и отказов. Дневник поиска работы, который помогает анализировать отклики на вакансии, чтобы понять, что можно улучшить в стратегии поиска.   
+The presented project lays the foundation for going through key stages before creating a resume, in particular conducting an analysis of the job and internship markets.
 
-В рамках проекта ты:   
-- упакуешь знания, навыки и опыт для резюме;  
-- выстроишь стратегию поиска работы-мечты;  
-- выберешь актуальные вакансии, которые соответствуют твоим приоритетам и опыту.  
+1. Where and how to search for job openings and internship programs?
+2. Skills analysis: hard and soft skills. How to analyze your skills for resume writing?
+3. Tips for job searching through job aggregators and company career websites.
+4. Analysis of responses and rejections. Job search diary that helps analyze responses to understand what can be improved in the search strategy.
 
+Within the project, you will:
 
-<h2 id="chapter-ii">Chapter II</h2> 
-<h2 id="genеral-rules">Genеral rules</h2>  
+- pack essential knowledge, skills and experience for a resume;
+- develop a strategy for finding your dream job;
+- Choose relevant vacancies that match your priorities and experience.
 
-1. Всю дорогу тебя будет сопровождать чувство неопределенности и острого дефицита информации - это нормально. Не забывай, что информация в репозитории и Google всегда с тобой, так же как пиры и Rocket.Chat. Общайся, ищи, опирайся на здравый смысл и не бойся ошибиться.  
-2. Будь внимателен к источникам информации: проверяй, думай, анализируй, сравнивай.   
-3. Будь внимателен к тексту задания, перечитывай по нескольку раз.   
-4. Внимательно читай примеры. В них может быть что-то, что не указано в явном виде в самом задании.  
-5. Могут встретиться несоответствия, когда что-то новое в условиях задачи или примере противоречит уже известному. Если встретилось такое — попробуй разобраться. Если не получилось — запиши вопрос в перечень открытых вопросов и найдешь ответ в процессе работы. Не оставляй открытые вопросы неразрешенными. 
-6. Если задание кажется непонятным или невыполнимым — так только кажется. Попробуй его декомпозировать. Скорее всего, отдельные части станут понятными.
-7. На пути тебе встретятся разные задания. Такие как, помеченые звездочкой (*) — подходят для более дотошных и пытливых. Эти задания с повышенной сложностью и не обязательны к выполнению, но если ты их сделаешь, то получишь дополнительный опыт и знания. 
-8. Не пытайся обмануть систему и окружающих. Ведь, в первую очередь ты обманываешь себя.  
-9. Есть вопрос? Спроси своего соседа справа, если это не помогло — соседа слева. 
-10. Когда пользуешься чей-либо помощью, то всегда разбирайся до конца: почему, как и зачем. Иначе помощь не будет иметь смысла.
-11. Всегда делай push только в ветку develop! Ветка master будет проигнорирована. Работай в директории src. 
-12. В твоей директории не должно быть иных файлов, кроме тех, что обозначены в заданиях.  
+## Chapter II
+## General rules
 
-<h2 id="chapter-iii">Chapter III</h2> 
+1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
+2. Be mindful of the sources of information: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, reread it several times.
+4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
+5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
+6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+9. Got a question? Ask your peers.
+10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
+11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
+12. There should be no files in your directory other than those designated in the assignments.
 
-## Аналитика рынка
+## Chapter III
+## Market analytics.
 
-_Где и как искать вакансии и программы стажировок?_. 
-Анализ рынка вакансий - это ключ к поиску работы. Именно через анализ можно понять, на какие позиции ты подходишь, какие навыки у тебя уже есть, а какие необходимо подтянуть или приобрести. Аналитика вакансий поможет понять специфику той или иной должности, которая тебе нравится. 
+Where and how to search for job vacancies and internship _programs?_ Job market analysis is the key to finding a job. Analysis will help you understand which positions you are suitable for, what skills you already have, and which ones you need to improve or acquire. Job analytics will help you understand the specifics of a particular position that you like.
 
-_Как провести аналитику вакансий?_ 
-Необходимо вбить в таблицу разные желаемые позиции и определить, какие требования и обязанности чаще всего встречаются. 
-[Пример таблицы “Аналитики рынка”](materials/Анализ_вакансий.xlsx). (доступно для скачивания в папке materials -> Анализ_вакансий)
+_How to conduct such an analysis?_ Enter various desired positions into the table and determine which requirements and responsibilities are most commonly encountered.
+[Example of the "Market Analysis" table](materials/Анализ_вакансий.xlsx) (available for download in the folder materials -> Анализ_вакансий).
 
-_Для чего нужно делать подобную аналитику?_  
-1. Чтобы иметь четкое  представление о будущей профессии;    
-2. Определить, каких навыков не хватает и что необходимо подтянуть;  
-3. Определить, каким образом ты будешь нарабатывать опыт:  
-- найти дополнительное обучение;   
-- приобрести опыт на текущей работе;  
-- найти ментора, который подскажет, какие еще могут быть действия или даст обратную связь;  
-- найти стажировку.  
-4. Иногда после хорошо проделанной  аналитики, человек понимает, что вообще не хочет заниматься этой деятельностью и начинает искать другие вакансии.  
-5. Когда ты сделаешь аналитику рынка вакансий, у тебя сформируется полное представление о том, к чему ты стремишься. И уже дальше можно выстраивать конкретные шаги к цели.  
+_Why is it necessary to perform such analysis?_
 
-_Какие существуют ресурсы для поиска вакансий?_  
-1. Основные сайты:  
-- HeadHunter – ведущий и один из самых крупных сайтов по поиску работы;  
-- [Работа.ру](https://sber.rabota.ru);  
-- IT-ресурсы: Хабр Карьера, tproger, careerspace;  
-- Если ты рассматриваешь работу за рубежом, то можно обратить внимание на Glassdor и профессиональную социальную сеть Linkedin (работает с VPN).  
-2. Сайты со стажировками: Future Today, БудуJobs, icanchoose и др.   
-3. Карьерные сайты компаний.  
+1. to have a clear understanding of your future job;
+2. to determine what skills are lacking and what needs to be improved;
+3. to determine how to gain experience:
 
+- find additional training;
+- gain experience in current job;
+- find a mentor who will suggest what other actions can be taken or provide feedback;
+- find an internship.
 
-Определись **с целью поиска: ты планируешь работать на российском рынке или зарубежном?** 
-Для каждого варианта - свои методы поиска.  
+4. Sometimes, after a well-done analysis, a person realizes that they don't want this job at all and starts looking for something else.
+5. When you do job market analysis, you will form a complete understanding of what you are striving for. Then you can take specific steps towards the goal.
 
-Если представить кратко, любой поиск работы выглядит следующим образом: 
-Составление резюме -> отклик на вакансию -> Приглашение на собеседование -> Отказ или Офер.  
-Но в глобальном смысле поиск работы на разных рынках отличается.  
+_Where can I find the resources for finding job openings?_
 
-**Поиск работы на российском рынке:**
-1. Зайти на сайт компании-мечты и найти раздел “вакансии” или “карьера у нас”, далее направить резюме и сопроводительное письмо.  
-2. Сделать резюме на hh.ru. Также можно оставить отклик как на вакансию, так и на сайте карьеры.  
-3. Если в описании вакансии есть контакты рекрутера, можно написать ему сопроводительное письмо, резюме на почту или в мессенджер (в рабочее время).  
-4. Подписаться на рассылку вакансий.  
-5. Принимать участие в [one day offer](https://developers.sber.ru/portal/events/onedayoffer-june)
-   Подобные мероприятия проходят и в других крупных компаниях.  
-6. Почти у каждой компании есть свой чат-бот с вакансиями в телеграм. Подпишитесь на вакансии и не упускай возможность подать заявку.  
+1. Main resources:
 
-**Если это международная компания** (даже, если офис находится в России), то лучше сделать резюме на английском (особенно, если вакансия тоже написана на английском):    
-1. Используй для поиска работы профессиональную сеть Linkedin (работает с VPN), [советы по наполнению](https://habr.com/ru/post/464757/).   
-2. Откликайся на сайтах компании в разделе “career”.   
-3. Не забывай о дополнительных сайтах по поиску вакансий за рубежом: Glassdor.   
-5. Подпишись на рассылку вакансий от компании и периодически мониторь.   
+- HeadHunter is the leading and one of the largest job search resources;
+- [Rabota.ru](https://sber.rabota.ru/);
+- IT resources: Career.habr.com, tproger, careerspace;
+- If you're considering working abroad, you could look at Glassdor and professional social network Linkedin (turn your VPN on).
 
-_Общие пожелания ко всем целям поиска работы: **Развивать нетворкинг**_
-1. РандомКофе.
-Необходимо выбрать сообщества по интересному для тебя направлению, заводить полезные знакомства, обменяться опытом. Встречи проходят раз в неделю, через телеграм-бот тебе попадается один человек для знакомства (можно выбирать онлайн или офлайн). Также раз в 2-3 месяца проходят большие нетворк-сессии на 20-25 человек.  
-2. Принимать участие в профессиональных сообществах (например, proftalk, mesto.co) и хакатонах. Можно следить за [мероприятиями](https://it-events.com). 
+2. Internship sites: Future Today, BuduJobs, icanchoose and others.
+3. Company career sites.
 
-Такие встречи тебе дадут новые возможности:   
-- полезные контакты людей из разных компаний;   
-- приглашение на работу;  
-- обратную связь по твоему резюме или тестовому заданию; 
-- расширенный поиск ментора для себя.
+**Determine the purpose of the search. Do you plan to work in the Russian market or abroad?** There are different search methods for each option.
 
-## Анализ ваших навыков: hard и soft skills 
-### Как анализировать свои навыки для написания резюме 
+To put it in a nutshell, any job search looks like this:
 
-Существуют разные методы для анализа твоих навыков. Один из самых популярных - это SWOT-анализ навыков. 
+Writing a resume -\> Responding to a job -\> Invitation to interview -\> Rejection or Offer.
 
-![SWOT](misc/images/SWOT.png)
+But in a global sense, job search differs from market to market.
 
-Таблицу можно разделить на 4 составляющие: 
-Первые два пункта можно определить через анализ вакансий. 
+**Search for work in the Russian market:**
 
-1. Сильные стороны:  
-К сильным точкам опоры можно отнести:  
-- образование; 
-- опыт работы; 
-- навыки в желаемой сфере, результаты работы и тд. 
-2. Слабые стороны - зона развития:  
-К слабым сторонам относят:   
-- недостаток информации и опыта;  
-- неумение выстраивать отношения с руководством, коллективом и т.д.  
-3. Ваши возможности:  
-Наличие времени и мотивации для изучения новой информации. 
-4. Риски или угрозы:  
-- обстановка в мире;
-- наличие препятствий или конкурентов.
+1. Go to the dream company's website and find the "jobs" (in Russian: вакансии) or "careers" (in Russian: карьера, карьера у нас) section, then send a resume and your cover letter.
+2. Make a resume on hh.ru. You can also leave a response either on the job posting or on the careers website.
+3. If the job description has the recruiter's contacts, you can write a cover letter, send your resume to their email or in a messaging app (during business hours only).
+4. Sign up for job postings.
+5. Take part in [one day offer](https://developers.sber.ru/portal/events/onedayoffer-june). Similar events are held in other large companies.
+6. Almost every company has its own chatbot with job openings on Telegram. Sign up for job openings and don't miss the opportunity to apply.
 
-Подробнее, как можно проводить [анализ навыков](https://www.youtube.com/watch?v=J8EcCQxAzjg&t=125s) 
+If it is an international company (even if the office is located in Russia), it is better to make a resume in English (especially if the job posting is also written in English):
 
-## Анализ откликов и отказов
+1. Use Linkedin professional network (use your VPN) for your job search ([tips on how to fill the profile](https://habr.com/ru/post/464757/)).
+2. Respond on the company's websites in the "career" section.
+3. Don't forget about additional foreign job search sites: Glassdor, for example.
+4. Sign up for the company's job newsletter and monitor it.
 
-Дневник поиска работы помогает анализировать отклики на вакансии, чтобы понять, что можно улучшить в стратегии поиска работы.   
-Очень важно анализировать отказы, чтобы при дальнейших действиях оперативно реагировать, вносить изменения и улучшать стратегию поиска работы.
+_Common tips for all job search goals:_ ***Develop networking***
 
-1. Если ты заметил, что больше всего отказов на этапе “рассмотрения резюме”, значит необходимо переработать резюме - проверить должности, какие результаты написаны в опыте работы, твое портфолио.  
+1. RandomCoffee. Choose communities that are interesting for you, make useful acquaintances, and exchange experience. Meetings are held once a week. You get a person to meet through a telegram bot (you can choose whether you'll do it online or offline). There are also large networking sessions for 20-25 people held every 2-3 months.
+2. Participate in professional communities (e.g. proftalk, mesto.co) and hackathons. You can follow the [events](https://it-events.com/).
 
-2. Если отказов больше после собеседования с HR-менеджером, значит нужно лучше готовиться к собеседованию: 
-- лучше продумать рассказ о себе; 
-- изучить самые частые [вопросы](https://hh.ru/article/303229); 
-- быть готовым к техническим вопросам на [собеседовании](https://tproger.ru/articles/sobesedovanie-v-it-kompaniju-chto-nuzhno-znat-dzhunioru/).  
+Such meetings will give you new opportunities:
 
-3. Если отказов больше после тех.собеседования/тестовых заданий, обратите внимание на твои hard-скиллы, что необходимо подтянуть.   
-4. Можно также обратиться за обратной связью к [менторам](https://getmentor.dev) в своей области или найти человека, который уже работает на данной должности.  
+- useful connections from different companies;
+- job offers;
+- feedback on your resume or test assignment;
+- an advanced search for a mentor for yourself.
 
-[Пример дневника](./materials/Diary.xlsx) (доступно для скачивания в папке materials -> Diary)
+## Skills Analysis: hard and soft skills
+### How to analyze your skills for resume writing
 
-## Критерии выбора вакансии и компании 
-### Как не ошибиться с выбором? 
+There are different methods to analyze your skills. One of the most popular is the SWOT analysis.
 
-Типичная ошибка кандидата - откликаться на все вакансии или во все компании подряд.
-Так делать не нужно. Нерелевантные отклики не просматривают рекрутеры. 
+The table can be divided into 4 components. The first two can be determined during job analysis.
 
-_Помни про твою  цель и приоритеты, что ищешь._
-Определи, на какие позиции, исходя из твоего опыта, ты можешь подойти.
-Составь свой чек-лист выбора вакансии. Пример критериев:  
-- Высокая зарплата;  
-- Финансовая стабильность компании;   
-- Карьерный рост;  
-- Интересная работа;   
-- Коллектив;  
-- Баланс между работой и личной жизнью;  
-- Хорошая репутация;   
-- Внедрение высоких технологий;  
-- Забота об окружающей среде;  
-- Участие в волонтерской деятельности; 
-- Социальный пакет;  
-- Трудоустройство по ТК РФ и др.   
+1. Strengths:
 
-Как только ты напишешь свои критерии поиска, будет легче ориентироваться в огромном бассейне разных вакансий. 
+- education;
+- experience;
+- skills in the desired field, work results, etc.
 
-## Анализ требований к кандидатам.  
+2. Weaknesses - Development Area:
 
-_На что обращают внимание работодатели?_  
-Требования к кандидатам можно разделить на 3 части:  
-1. Анализ резюме кандидата.  
-2. Анализ soft-skills кандидата.  
-3. Анализ hard-skills кандидата.  
+- lack of information and experience;
+- inability to build relationships with management, team, etc.
 
-**1. Анализ резюме**  
-У каждого рекрутера всегда есть некий описанный профиль личности кандидата на позицию, которую он ищет. 
-Что может входить в этот профиль?   
-- образование;  
-- определенные навыки/стек технологий;  
-- определенный опыт (например, обязателен опыт в стартапах или обязателен опыт в крупном бизнесе);  
-- ожидаемый уровень заработной платы;  
-- желаемый график работы;   
-- наличие сопроводительного письма;  
-- знание языков;  
-- наличие портфолио и тд.  
+3. Your capabilities:
 
-Исходя из профиля кандидата, рекрутер старается максимально близко найти того, кто соответствует и пригласить на первичный этап собеседования. 
+- having the time and motivation to learn new information.
 
-**2. Анализ soft-skills кандидата**  
-Soft-скиллы определяется чаще всего в рамках интервью:  
-Проверяются такие компетенции как:   
-- коммуникативные навыки;
-- управление собой;
-- мышление (системное, креативное и т.д.);
-- управленческие навыки;
-- предпринимательские навыки и др. 
+4. Risks or Threats:
 
-Проверка навыков зависит также от позиции и от профиля кандидата. 
-Более подробно про интервью будет в DAY 03.
+- global situation;
+- obstacles or competitors.
 
-**3. Анализ hard-skills кандидата**  
-Данный навык проверяется: 
-- через тестовое задание;  
-- через техническое собеседование.  
+Learn more about how you can [analyze skills](https://www.youtube.com/watch?v=J8EcCQxAzjg&t=125s)
 
-Человек не может все знать, но может стремиться постоянно улучшать свои знания и становиться экспертом в своей сфере. Поэтому не бойся ошибок, бери обратную связь у более опытных коллег, больше читай профессиональную литературу и решай тестовые задания, например тут: leetcode или тут codewars или тут: projecteuler.  
+## Analysis of responses and rejections
 
-<h2 id="chapter-iv">Chapter IV</h2>  
+A job search diary helps you analyze job responses to understand what you can improve in your job search strategy.
+ It is important to analyze rejections so that you can react quickly, make changes and improve your job search strategy.
 
-## Задача 
+1. If you notice that the most rejections are at the "resume review" stage, then you need to rebuild your resume: check positions, what results are mentioned in work experience, your portfolio.
 
-Для решения задачи необходимо определиться с поиском работы: российский или зарубежный рынок.
-В этом вопросе нет правильных или неправильных ответов. Ты можешь использовать любые помогающие инструменты, задавать больше уточняющих вопросов, записывать, рисовать майнд-мэпы и прийти к итоговой цели. По итогу у тебя должно получится 1-2 вакансии, под которые ты будешь готовить свое резюме.
+2. If there are more rejections after the interview with the HR manager, then you need to prepare better for the interview:
 
-<h2 id="chapter-v">Chapter V</h2>  
+- think of a better think of a story about yourself;
+- explore the most common [questions](https://hh.ru/article/303229);
+- prepare for technical questions in the [interview](https://tproger.ru/articles/sobesedovanie-v-it-kompaniju-chto-nuzhno-znat-dzhunioru/).
 
-## Exercise 00 
-### Выбор компании 
+3. If there are more rejections after tech interview/test assignments, pay attention to your hard skills and what needs to be improved.
+4. You can also ask for feedback from [mentors](https://getmentor.dev/) in your field or find someone who is already in the position.
 
-1. Составить свой чек-лист выбора компании (загляни обязательно в DAY 00 в упражнение карьерное колесо, чтобы все желаемые критерии были соблюдены максимально, насколько это возможно, и занеси этот список в Трелло (данный инструмент носит рекомендательный характер) Это будет доска №1. (От 10 критериев). 
-2. Составить список компаний в трелло (доска №2), где хочется поработать (минимум от 5 компаний).  
-3. На доска №3 в трелло выписать ссылки на вакансии из этих компаний, если имеются(от 3 вакансий). 
-4. Подписаться на карьерные рассылки 1-2 компании.   
+[Diary example](./materials/Diary.xlsx) (available for download in the folder materials -\> Diary).
+
+## Criteria for selecting a vacancy and a company
+### How to make the right choice?
+
+A typical candidate mistake is to respond to all job openings or all companies in a row. That's not the way to do it. Irrelevant responses are not reviewed by recruiters.
+
+_Remember your goal and prioritize what you're looking for._ Determine what positions you might be a good fit for based on your experience, Make your job selection checklist. Example of criteria:
+
+- High salary;
+- The financial stability of the company;
+- Career development;
+- Interesting work;
+- Great team;
+- Work-life balance;
+- Good reputation;
+- Introduction of high technology;
+- Sustainability;
+- Participation in volunteer activities;
+- Social package;
+- Official employment (for example, under the Labor Code of the Russian Federation), etc.
+
+Once you write down your search criteria, it will be easier to navigate the huge pool of different jobs.
+
+## Analysis of candidate requirements.
+
+_What do employers pay attention to?_
+ The requirements for candidates can be divided into 3 parts:
+
+1. Analyzing a candidate's resume.
+2. Analyzing the soft skills of the candidate.
+3. Analyzing the hard skills of the candidate.
+
+**1. Analyzing resumes**
+Every recruiter always has some sort of personality profile of the candidate for the position they are hunting for. What might be included in this profile?
+
+- education;
+- certain skills/technology stack;
+- certain experience (e.g., startup experience or experience in a large business is a must);
+- expected salary level;
+- desired work schedule;
+- cover letter;
+- language skills;
+- portfolio, etc.
+
+Based on the candidate's profile, the recruiter tries to find someone who matches it as closely as possible and invite them to the initial interview stage.
+
+**2. Analyzing a candidate's soft skills**
+Soft skills are assessed most often in an interview:
+ HR specialists usually check such competences as:
+
+- communication skills;
+- self-management;
+- thinking (systemic, creative, etc.);
+- management skills;
+- entrepreneurial skills, etc.
+
+Skills testing also depends on the position and the candidate's profile. More details about the interview will be provided on DAY 03.
+
+**3. Analyzing the candidate's hard skills**
+These skills are tested:
+
+- through a test assignment;
+- through a technical interview.
+
+A person cannot know everything, but one can strive to continually gain new knowledge and become an expert in their field. So, don't be afraid of making mistakes, take feedback from more experienced colleagues, read more professional literature and solve test tasks, for example: here [leetcode](https://leetcode.com/) or here [codewars](https://www.codewars.com/) or here [projecteuler](https://projecteuler.net/).
+
+## Chapter IV
+## Task
+
+To solve the problem, you need to decide on a job market and pick Russian or foreign. There are no right or wrong answers to this question. You can use any helping tools, ask clarifying questions, take notes and draw mind maps to reach the goal. You should end up with 1-2 vacancies for which you will prepare your resume.
+
+## Chapter V
+## Exercise 00
+### Company selection
+
+1. Make your checklist for choosing a company. Make sure to look at the career wheel exercise done on DAY 00 to make sure all desired criteria are met, and put this list into Trello (we recommend using this tool). This will be board #1 (10 criteria and more).
+2. Make a list of companies in Trello (board #2) where you want to work (5 companies and more).
+3. On board #3 in Trello write out links to job postings from these companies, if available (3 vacancies and more).
+4. Subscribe to 1-2 companies' career newsletters.
 
 ## Exercise 01
-### Анализ вакансий
+### Vacancy analysis
 
-1. Создать таблицу "Анализ вакансий" (например, в Google-таблицах - данный инструмент носит рекомендательный характер).   
-2. Найти не менее 7 вакансий и занесите их в таблицу.  
-3. Проанализировать 7 желаемых вакансий, необходимо выписать все требования и обязанности из вакансий в таблицу. 
-5. Исходя из требований и обязанностей, которые выписал — определить, какими владеешь, а какими нет.
-6. Требования и обязанности, которыми ты не владеешь, необходимо понять, как сможешь их достичь.
-Например, обучение, наставник, опыт на текущем месте, стажировка, фриланс-проект?
-8. Вернуться в таблицу карьерных целей и на основании аналитики требований и обязанностей, прописать шаги по достижению целей через 2-3 года. 
-
+1. Create a table named "Vacancy Analysis" (we recommend using Google Sheets).
+2. Find at least 7 vacancies and enter them into a table.
+3. Analyze 7 desirable jobs (you need to write out all the requirements and responsibilities from the job postings in a table).
+4. Based on the requirements and responsibilities you have written out, determine which skills you have and which ones you don't.
+5. If there are requirements and responsibilities that you lack the skills for, you need to figure out ways to acquire them (training, mentoring, experience in your current position, an internship, a freelance project etc.).
+6. Go back to the career goals table and, based on the analysis of the requirements and responsibilities, write down steps to achieve the goals in 2-3 years.
 
 ## Exercise 02
-### Анализ навыков
+### Skills Analysis
 
-1. Нарисовать в MIRO (данный инструмент носит рекомендательный характер) таблицу SWOT-анализа. 
-2. Для каждой графы ответь на вопросы и запиши в таблицу.
- 
-2.1. Сильные стороны (Strengths): 
-- Какие свойства выделяют вас на фоне остальных? Это могут быть любые навыки, образование, связи; 
-- Какие ресурсы имеются в наличии и какие могут быть получены при надобности? 
-- Какое качество является твоей сильной стороной по мнению окружающих? 
-- Какими достижениями ты можешь похвастаться на данный момент?
+1. Draw a SWOT analysis table in MIRO (we recommend using this tool).
+2. For each box, answer the questions and record your answers in the table:
 
-2.2. Слабые стороны (Weaknesses): 
-- Какие задачи тебе некомфортно выполнять?
-- Какие твои качества считают слабым местом окружающие? 
-- Есть ли у тебя негативные привычки, касающиеся работы? (опоздания, вспыльчивость, отсутствие стрессоустойчивости и т.д.);
-- Есть ли у тебя особенности характера, блокирующие движение к цели? 
+2.1. Strengths:
 
-2.3. Возможности (Opportunities):
-- В каком состоянии сейчас пребывает сфера твоей деятельности? Какое преимущество это представляет для тебя? 
-- Какие инновационные технологии ускорят достижение цели?
-- Какие изменения и закономерности наблюдаются в индустрии и стране в целом? Как это сможет помочь тебе? 
-- Какие ошибки ты можешь выделить из неудачного опыта других людей, работающих в этой сфере?
+- What characteristics set you apart from the rest (any skills, education, connections)?
+- What resources are available and which can be obtained if needed?
+- What is your biggest strength, according to others?
+- What accomplishments can you boast about so far?
 
-2.4. Угрозы (Threats):
-- С какими трудностями ты сталкиваешься при выполнении рабочих обязанностей? 
-- Есть ли у тебя прямые конкуренты? (например, за повышение); 
-- Могут ли твои слабые стороны застопорить движение к цели?
+2.2. Weaknesses:
 
->Пожалуйста, оставь обратную связь по проекту в [форме обратной связи.](https://forms.gle/uiPQx2gWiZAVuphk7) 
+- Are there any tasks you don't feel like doing?
+- What are your qualities that people around you consider your weaknesses?
+- Do you have any bad work-related habits? (tardiness, temper tantrums, lack of stress tolerance, etc.);
+- Do you have any character traits that block you from moving toward your goal?
 
+2.2. Opportunities:
 
+- What is the current state of your field of activity? What advantage does this present to you?
+- What innovative technologies will accelerate the achievement of your goal?
+- What changes and patterns are seen in the industry and the country as a whole? How is this going to help you?
+- What mistakes can you highlight from the bad experiences of others working in this field?
+
+2.4. Threats:
+
+- What challenges do you face in performing your job duties?
+- Do you have any direct competitors? (e.g., for a promotion);
+- Can your weaknesses stall your progress toward your goal?
+
+>Please leave feedback on the project in the [feedback form.](https://forms.gle/uiPQx2gWiZAVuphk7)
