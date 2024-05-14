@@ -53,7 +53,7 @@ Within the project, you will:
 12. There should be no files in your directory other than those designated in the assignments.
 
 ## Chapter III
-## Market analytics.
+## Market analytics
 
 Where and how to search for job vacancies and internship _programs?_ Job market analysis is the key to finding a job. Analysis will help you understand which positions you are suitable for, what skills you already have, and which ones you need to improve or acquire. Job analytics will help you understand the specifics of a particular position that you like.
 
@@ -65,14 +65,14 @@ _Why is it necessary to perform such analysis?_
 1. to have a clear understanding of your future job;
 2. to determine what skills are lacking and what needs to be improved;
 3. to determine how to gain experience:
+    - find additional training;
+    - gain experience in current job;
+    - find a mentor who will suggest what other actions can be taken or provide feedback;
+    - find an internship.
 
-- find additional training;
-- gain experience in current job;
-- find a mentor who will suggest what other actions can be taken or provide feedback;
-- find an internship.
+Sometimes, after a well-done analysis, a person realizes that they don't want this job at all and starts looking for something else.
 
-4. Sometimes, after a well-done analysis, a person realizes that they don't want this job at all and starts looking for something else.
-5. When you do job market analysis, you will form a complete understanding of what you are striving for. Then you can take specific steps towards the goal.
+When you do job market analysis, you will form a complete understanding of what you are striving for. Then you can take specific steps towards the goal.
 
 _Where can I find the resources for finding job openings?_
 
@@ -130,24 +130,20 @@ There are different methods to analyze your skills. One of the most popular is t
 The table can be divided into 4 components. The first two can be determined during job analysis.
 
 1. Strengths:
+    - education;
+    - experience;
+    - skills in the desired field, work results, etc.
 
-- education;
-- experience;
-- skills in the desired field, work results, etc.
-
-2. Weaknesses - Development Area:
-
-- lack of information and experience;
-- inability to build relationships with management, team, etc.
+2. Weaknesses — Development Area:
+    - lack of information and experience;
+    - inability to build relationships with management, team, etc.
 
 3. Your capabilities:
-
-- having the time and motivation to learn new information.
+    - having the time and motivation to learn new information.
 
 4. Risks or Threats:
-
-- global situation;
-- obstacles or competitors.
+    - global situation;
+    - obstacles or competitors.
 
 Learn more about how you can [analyze skills](https://www.youtube.com/watch?v=J8EcCQxAzjg&t=125s)
 
@@ -159,10 +155,9 @@ A job search diary helps you analyze job responses to understand what you can im
 1. If you notice that the most rejections are at the "resume review" stage, then you need to rebuild your resume: check positions, what results are mentioned in work experience, your portfolio.
 
 2. If there are more rejections after the interview with the HR manager, then you need to prepare better for the interview:
-
-- think of a better think of a story about yourself;
-- explore the most common [questions](https://hh.ru/article/303229);
-- prepare for technical questions in the [interview](https://tproger.ru/articles/sobesedovanie-v-it-kompaniju-chto-nuzhno-znat-dzhunioru/).
+    - think of a better story about yourself;
+    - explore the most common [questions](https://hh.ru/article/303229);
+    - prepare for technical questions in the [interview](https://tproger.ru/articles/sobesedovanie-v-it-kompaniju-chto-nuzhno-znat-dzhunioru/).
 
 3. If there are more rejections after tech interview/test assignments, pay attention to your hard skills and what needs to be improved.
 4. You can also ask for feedback from [mentors](https://getmentor.dev/) in your field or find someone who is already in the position.
@@ -191,7 +186,7 @@ _Remember your goal and prioritize what you're looking for._ Determine what posi
 
 Once you write down your search criteria, it will be easier to navigate the huge pool of different jobs.
 
-## Analysis of candidate requirements.
+## Analysis of candidate requirements
 
 _What do employers pay attention to?_
  The requirements for candidates can be divided into 3 parts:
@@ -243,9 +238,9 @@ To solve the problem, you need to decide on a job market and pick Russian or for
 ## Exercise 00
 ### Company selection
 
-1. Make your checklist for choosing a company. Make sure to look at the career wheel exercise done on DAY 00 to make sure all desired criteria are met, and put this list into Trello (we recommend using this tool). This will be board #1 (10 criteria and more).
-2. Make a list of companies in Trello (board #2) where you want to work (5 companies and more).
-3. On board #3 in Trello write out links to job postings from these companies, if available (3 vacancies and more).
+1. Make your checklist for choosing a company. Make sure to look at the career wheel exercise done on DAY 00 to make sure all desired criteria are met, and put this list into Notion (we recommend using this tool). This will be board #1 (10 criteria and more).
+2. Make a list of companies in Notion (board #2) where you want to work (5 companies and more).
+3. On board #3 in Notion write out links to job postings from these companies, if available (3 vacancies and more).
 4. Subscribe to 1-2 companies' career newsletters.
 
 ## Exercise 01
