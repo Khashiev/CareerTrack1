@@ -23,109 +23,115 @@ In this project, you'll learn the main stages of job search, how to analyze job 
 
 ## Preamble
 
-The presented project lays the foundation for going through key stages before creating a resume, in particular conducting an analysis of the job and internship markets.
+The presented project lays the foundation for going through the key stages before writing a resume, in particular, conducting an analysis of the job and internship markets.
 
-1. Where and how to search for job openings and internship programs?
+1. Where and how to search for job and internship opportunities?
 2. Skills analysis: hard and soft skills. How to analyze your skills for resume writing?
-3. Tips for job searching through job aggregators and company career websites.
-4. Analysis of responses and rejections. Job search diary that helps analyze responses to understand what can be improved in the search strategy.
+3. Tips for searching for jobs through job aggregators and company career sites.
+4. Response and rejection analysis. Job search journal to help analyze responses and understand what can be improved in search strategy.
 
 Within the project, you will:
 
-- pack essential knowledge, skills and experience for a resume;
-- develop a strategy for finding your dream job;
-- Choose relevant vacancies that match your priorities and experience.
+- Package essential knowledge, skills, and experience into a resume;
+- Develop a strategy for finding your dream job;
+- Select relevant jobs that match your priorities and experience.
 
 ## Chapter II
 ## General rules
 
-1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
-2. Be mindful of the sources of information: check, think, analyze, compare.
-3. Pay close attention to the text of the assignment, reread it several times.
+1. Along the way, you'll feel a sense of uncertainty and a severe lack of information. Don't worry: this is perfectly normal. Remember, the information in the repository and on Google is always with you, as are your peers and Rocket.Chat. Communicate, search, use common sense, and don't be afraid to make mistakes.
+2. Pay attention to information sources: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, read it several times.
 4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
-5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
-6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
-7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
-8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+5. You may encounter inconsistencies when something new in a condition or example contradicts something you already know. If you come across something like this, try to figure it out. If you can't, put it in the list of open questions and you'll find the answer as you go. Don't leave any open questions unanswered.
+6. If a task seems incomprehensible or impossible, remember that it isn't: you're just seeing it that way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter various tasks along the way. Those marked with an asterisk (\*) are for the most meticulous and curious students. These tasks are more difficult and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system or the people around you. After all, you're only fooling yourself.
 9. Got a question? Ask your peers.
-10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
-11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
-12. There should be no files in your directory other than those designated in the assignments.
+10. When you ask someone for help, always make sure you understand why, how, and for what purpose. Otherwise, the help won't help you.
+11. Always _push_ only to the _develop_ branch! The _master_ branch is ignored. Work in the _src_ directory.
+12. There should be no files in your directory other than those specified in the tasks.
 
 ## Chapter III
 ## Market analytics
 
-Where and how to search for job vacancies and internship _programs?_ Job market analysis is the key to finding a job. Analysis will help you understand which positions you are suitable for, what skills you already have, and which ones you need to improve or acquire. Job analytics will help you understand the specifics of a particular position that you like.
+_Where and how to search for jobs and internship programs?_ 
 
-_How to conduct such an analysis?_ Enter various desired positions into the table and determine which requirements and responsibilities are most commonly encountered.
-[Example of the "Market Analysis" table](materials/Анализ_вакансий.xlsx) (available for download in the folder materials -> Анализ_вакансий).
+Job market analysis is the key to finding a job. The analysis will help you understand what positions you are qualified for, what skills you already have, and what skills you need to improve or acquire. Job analysis will help you understand the specifics of a particular position that you like.
 
-_Why is it necessary to perform such analysis?_
+_How to conduct such an analysis?_ 
 
-1. to have a clear understanding of your future job;
-2. to determine what skills are lacking and what needs to be improved;
-3. to determine how to gain experience:
-    - find additional training;
-    - gain experience in current job;
-    - find a mentor who will suggest what other actions can be taken or provide feedback;
-    - find an internship.
+Enter various desired positions in the table and determine which requirements and responsibilities are most common.
+[Example of the Market Analysis Table](materials/Анализ_вакансий.xlsx) (available for download in the materials folder -> Анализ_вакансий).
+
+_Why is it necessary to carry out such an analysis?_
+
+1. To have a clear understanding of your future job;
+2. To determine what skills are lacking and what needs to be improved;
+3. To determine how to gain experience:
+    - Find additional training;
+    - Gain experience in your current job;
+    - Find a mentor who can suggest other actions or provide feedback;
+    - Find an internship.
 
 Sometimes, after a well-done analysis, a person realizes that they don't want this job at all and starts looking for something else.
 
-When you do job market analysis, you will form a complete understanding of what you are striving for. Then you can take specific steps towards the goal.
+Doing a job market analysis will give you a complete understanding of what you want. Then you can take specific steps to get there.
 
-_Where can I find the resources for finding job openings?_
+_Where can you find the resources for finding job openings?_
 
-1. Main resources:
+1. Key Resources:
 
 - HeadHunter is the leading and one of the largest job search resources;
 - [Rabota.ru](https://sber.rabota.ru/);
 - IT resources: Career.habr.com, tproger, careerspace;
-- If you're considering working abroad, you could look at Glassdor and professional social network Linkedin (turn your VPN on).
+- If you're considering working abroad, you could look at Glassdor and professional social network Linkedin (turn on your VPN).
 
 2. Internship sites: Future Today, BuduJobs, icanchoose and others.
-3. Company career sites.
+3. Career sites of companies.
 
-**Determine the purpose of the search. Do you plan to work in the Russian market or abroad?** There are different search methods for each option.
+**Determine the purpose of your search. Do you plan to work in the Russian market or abroad?** There are different search methods for each option.
 
-To put it in a nutshell, any job search looks like this:
+In a nutshell, every job search looks like this:
 
-Writing a resume -\> Responding to a job -\> Invitation to interview -\> Rejection or Offer.
+Writing a resume -\> Responding to a job offer -\> Invitation to an interview -\> Rejection or Offer.
 
-But in a global sense, job search differs from market to market.
+But in a global sense, the job search differs from market to market.
 
-**Search for work in the Russian market:**
+**Looking for a job in the Russian market:**
 
-1. Go to the dream company's website and find the "jobs" (in Russian: вакансии) or "careers" (in Russian: карьера, карьера у нас) section, then send a resume and your cover letter.
-2. Make a resume on hh.ru. You can also leave a response either on the job posting or on the careers website.
-3. If the job description has the recruiter's contacts, you can write a cover letter, send your resume to their email or in a messaging app (during business hours only).
-4. Sign up for job postings.
-5. Take part in [one day offer](https://developers.sber.ru/portal/events/onedayoffer-june). Similar events are held in other large companies.
-6. Almost every company has its own chatbot with job openings on Telegram. Sign up for job openings and don't miss the opportunity to apply.
+1. Go to the website of the dream company and find the "Jobs" (in Russian: вакансии) or "Careers" (in Russian: карьера, карьера у нас) section, then send a resume and cover letter.
+2. Create a resume on hh.ru. You can also leave a reply either to the job offer or to the career site.
+3. If the job description includes the recruiter's contact information, you can write a cover letter and send your resume to the recruiter's e-mail or messaging application (during business hours only).
+4. Sign up for job alerts.
+5. Attend the [One Day Offer](https://developers.sber.ru/portal/events/onedayoffer-june). Similar events are held at other large companies.
+6. Almost every company has its own chatbot with job openings on Telegram. Sign up for job offers and don't miss the opportunity to apply.
 
-If it is an international company (even if the office is located in Russia), it is better to make a resume in English (especially if the job posting is also written in English):
+If it is an international company (even if the office is in Russia), it is better to write a resume in English (especially if the job announcement is also in English):
 
-1. Use Linkedin professional network (use your VPN) for your job search ([tips on how to fill the profile](https://habr.com/ru/post/464757/)).
-2. Respond on the company's websites in the "career" section.
+1. Use the Linkedin professional network (use your VPN) for your job search ([Tips on filling out the profile](https://habr.com/ru/post/464757/)).
+2. Answer on the company websites in the "Careers" section.
 3. Don't forget about additional foreign job search sites: Glassdor, for example.
-4. Sign up for the company's job newsletter and monitor it.
+4. Subscribe to and monitor the company's job newsletter.
 
-_Common tips for all job search goals:_ ***Develop networking***
+_Common tips for all job search goals:_ 
 
-1. RandomCoffee. Choose communities that are interesting for you, make useful acquaintances, and exchange experience. Meetings are held once a week. You get a person to meet through a telegram bot (you can choose whether you'll do it online or offline). There are also large networking sessions for 20-25 people held every 2-3 months.
+***Develop networking***:
+
+1. RandomCoffee. Pick communities that interest you, make useful connections, and share experiences. Meet once a week. You'll get a person to meet through a telegram bot (you can choose to do it online or offline). There are also big networking sessions for 20-25 people every 2-3 months.
 2. Participate in professional communities (e.g. proftalk, mesto.co) and hackathons. You can follow the [events](https://it-events.com/).
 
 Such meetings will give you new opportunities:
 
-- useful connections from different companies;
-- job offers;
-- feedback on your resume or test assignment;
+- Useful connections from different companies;
+- Job offers;
+- Feedback on your resume or test assignment;
 - an advanced search for a mentor for yourself.
 
 ## Skills Analysis: hard and soft skills
 ### How to analyze your skills for resume writing
 
-There are different methods to analyze your skills. One of the most popular is the SWOT analysis.
+There are several ways to analyze your skills. One of the most popular is the SWOT analysis.
 
 The table can be divided into 4 components. The first two can be determined during job analysis.
 
@@ -145,42 +151,42 @@ The table can be divided into 4 components. The first two can be determined duri
     - global situation;
     - obstacles or competitors.
 
-Learn more about how you can [analyze skills](https://www.youtube.com/watch?v=J8EcCQxAzjg&t=125s)
+Learn more about how you can [analyze skills](https://www.youtube.com/watch?v=J8EcCQxAzjg&t=125s).
 
 ## Analysis of responses and rejections
 
 A job search diary helps you analyze job responses to understand what you can improve in your job search strategy.
- It is important to analyze rejections so that you can react quickly, make changes and improve your job search strategy.
+ It is important to analyze rejections so that you can react quickly, make changes, and improve your job search strategy.
 
-1. If you notice that the most rejections are at the "resume review" stage, then you need to rebuild your resume: check positions, what results are mentioned in work experience, your portfolio.
+1. If you find that most rejections are at the "resume review" stage, then you need to rebuild your resume: review the positions, the accomplishments mentioned in the work experience, your portfolio.
 
-2. If there are more rejections after the interview with the HR manager, then you need to prepare better for the interview:
-    - think of a better story about yourself;
-    - explore the most common [questions](https://hh.ru/article/303229);
+2. If there are more rejections after the interview with the hiring manager, then you need to prepare better for the interview:
+    - Come up with a better story about yourself;
+    - Explore the most common [questions](https://hh.ru/article/303229);
     - prepare for technical questions in the [interview](https://tproger.ru/articles/sobesedovanie-v-it-kompaniju-chto-nuzhno-znat-dzhunioru/).
 
-3. If there are more rejections after tech interview/test assignments, pay attention to your hard skills and what needs to be improved.
+3. If there are more rejections after technical interviews / tests, pay attention to your hard skills and what needs to be improved.
 4. You can also ask for feedback from [mentors](https://getmentor.dev/) in your field or find someone who is already in the position.
 
-[Diary example](./materials/Diary.xlsx) (available for download in the folder materials -\> Diary).
+[Sample Diary](./materials/Diary.xlsx) (available for download in the Materials folder -\> Diary).
 
 ## Criteria for selecting a vacancy and a company
 ### How to make the right choice?
 
-A typical candidate mistake is to respond to all job openings or all companies in a row. That's not the way to do it. Irrelevant responses are not reviewed by recruiters.
+A typical mistake candidates make is to respond to all job postings or all companies in a row. That's not the way to do it. Irrelevant responses will not be reviewed by recruiters.
 
-_Remember your goal and prioritize what you're looking for._ Determine what positions you might be a good fit for based on your experience, Make your job selection checklist. Example of criteria:
+_Remember your goal and prioritize what you're looking for._ Determine what positions you might be a good fit for based on your experience. Make your job selection checklist. Example criteria:
 
 - High salary;
-- The financial stability of the company;
-- Career development;
+- Financial stability of the company;
+- Career growth;
 - Interesting work;
 - Great team;
-- Work-life balance;
+- Work/life balance;
 - Good reputation;
-- Introduction of high technology;
+- Adoption of high technology;
 - Sustainability;
-- Participation in volunteer activities;
+- Involvement in volunteer activities;
 - Social package;
 - Official employment (for example, under the Labor Code of the Russian Federation), etc.
 
@@ -188,35 +194,34 @@ Once you write down your search criteria, it will be easier to navigate the huge
 
 ## Analysis of candidate requirements
 
-_What do employers pay attention to?_
- The requirements for candidates can be divided into 3 parts:
+_What do employers look for?_
+Requirements for candidates can be divided into 3 parts:
 
-1. Analyzing a candidate's resume.
-2. Analyzing the soft skills of the candidate.
-3. Analyzing the hard skills of the candidate.
+1. Analyzing the candidate's resume.
+2. Analyzing the candidate's soft skills.
+3. Analyzing the candidate's hard skills.
 
-**1. Analyzing resumes**
-Every recruiter always has some sort of personality profile of the candidate for the position they are hunting for. What might be included in this profile?
+**1. Resume Analysis**
+Every recruiter always has some sort of personality profile of the candidate for the position they are looking to fill. What might be included in that profile?
 
-- education;
-- certain skills/technology stack;
-- certain experience (e.g., startup experience or experience in a large business is a must);
-- expected salary level;
-- desired work schedule;
-- cover letter;
-- language skills;
-- portfolio, etc.
+- Education;
+- Specific skills/technology stack;
+- Experience (e.g., startup experience or large company experience is a must);
+- Desired salary level;
+- Desired work schedule;
+- Cover letter;
+- Language skills;
+- Portfolio, etc.
 
-Based on the candidate's profile, the recruiter tries to find someone who matches it as closely as possible and invite them to the initial interview stage.
+Based on the candidate's profile, the recruiter tries to find someone who matches the profile as closely as possible and invites them to the first interview stage.
 
-**2. Analyzing a candidate's soft skills**
-Soft skills are assessed most often in an interview:
- HR specialists usually check such competences as:
+**2. Analyzing the candidate's soft skills**
+Soft skills are most often assessed during an interview. Recruiters typically look for competencies such as:
 
-- communication skills;
-- self-management;
-- thinking (systemic, creative, etc.);
-- management skills;
+- Communication skills;
+- Self-management;
+- Thinking (systemic, creative, etc.)
+- Management skills;
 - entrepreneurial skills, etc.
 
 Skills testing also depends on the position and the candidate's profile. More details about the interview will be provided on DAY 03.
@@ -224,66 +229,66 @@ Skills testing also depends on the position and the candidate's profile. More de
 **3. Analyzing the candidate's hard skills**
 These skills are tested:
 
-- through a test assignment;
+- Through a test task;
 - through a technical interview.
 
-A person cannot know everything, but one can strive to continually gain new knowledge and become an expert in their field. So, don't be afraid of making mistakes, take feedback from more experienced colleagues, read more professional literature and solve test tasks, for example: here [leetcode](https://leetcode.com/) or here [codewars](https://www.codewars.com/) or here [projecteuler](https://projecteuler.net/).
+One person cannot know everything, but one can strive to continually gain new knowledge and become an expert in one's field. So don't be afraid to make mistakes, take feedback from more experienced colleagues, read more technical literature and solve test tasks, for example: here [leetcode](https://leetcode.com/) or here [codewars](https://www.codewars.com/) or here [projecteuler](https://projecteuler.net/).
 
 ## Chapter IV
 ## Task
 
-To solve the problem, you need to decide on a job market and pick Russian or foreign. There are no right or wrong answers to this question. You can use any helping tools, ask clarifying questions, take notes and draw mind maps to reach the goal. You should end up with 1-2 vacancies for which you will prepare your resume.
+To solve the problem, you need to decide on a job market and choose Russian or foreign. There is no right or wrong answer to this question. You can use any tools, ask clarifying questions, take notes and draw mind maps to achieve the goal. You should end up with 1-2 vacancies for which you will prepare your resume.
 
 ## Chapter V
 ## Exercise 00
-### Company selection
+### Company Selection
 
-1. Make your checklist for choosing a company. Make sure to look at the career wheel exercise done on DAY 00 to make sure all desired criteria are met, and put this list into Notion (we recommend using this tool). This will be board #1 (10 criteria and more).
-2. Make a list of companies in Notion (board #2) where you want to work (5 companies and more).
-3. On board #3 in Notion write out links to job postings from these companies, if available (3 vacancies and more).
-4. Subscribe to 1-2 companies' career newsletters.
+1. Make your company selection checklist. Be sure to review the Career Wheel exercise from DAY 00 to make sure all the desired criteria are met, and enter this list in Notion (we recommend using this tool). This will be Table #1 (10 criteria and more).
+2. Create a list of companies in Notion (board #2) where you would like to work (5 companies and more).
+3. On board #3 in Notion, add links to job postings from these companies, if available (3 jobs and more).
+4. Subscribe to the career newsletters of 1-2 companies.
 
 ## Exercise 01
-### Vacancy analysis
+### Vacancy Analysis
 
-1. Create a table named "Vacancy Analysis" (we recommend using Google Sheets).
-2. Find at least 7 vacancies and enter them into a table.
-3. Analyze 7 desirable jobs (you need to write out all the requirements and responsibilities from the job postings in a table).
-4. Based on the requirements and responsibilities you have written out, determine which skills you have and which ones you don't.
-5. If there are requirements and responsibilities that you lack the skills for, you need to figure out ways to acquire them (training, mentoring, experience in your current position, an internship, a freelance project etc.).
-6. Go back to the career goals table and, based on the analysis of the requirements and responsibilities, write down steps to achieve the goals in 2-3 years.
+1. Create a spreadsheet called "Vacancy Analysis" (we recommend using Google Sheets).
+2. Find at least 7 vacancies and enter them into the spreadsheet.
+3. Analyze 7 desirable jobs (you will need to write down all the requirements and responsibilities from the job postings in a spreadsheet).
+4. Based on the requirements and responsibilities you wrote down, determine what skills you have and what skills you don't have.
+5. If there are requirements and responsibilities for which you do not have the skills, figure out ways to acquire them (training, mentoring, experience in your current position, an internship, a freelance project, etc.).
+6. Go back to the career goals table and, based on the analysis of requirements and responsibilities, write down steps to achieve the goals in 2-3 years.
 
 ## Exercise 02
 ### Skills Analysis
 
-1. Draw a SWOT analysis table in MIRO (we recommend using this tool).
-2. For each box, answer the questions and record your answers in the table:
+1. Draw a SWOT analysis table in MIRO (we recommend the use of this tool).
+2. Answer the questions for each box and record your answers in the table:
 
 2.1. Strengths:
 
-- What characteristics set you apart from the rest (any skills, education, connections)?
-- What resources are available and which can be obtained if needed?
-- What is your biggest strength, according to others?
-- What accomplishments can you boast about so far?
+- What characteristics set you apart from the rest (skills, training, connections)?
+- What resources are available and can be obtained if needed?
+- What is your greatest strength as perceived by others?
+- What are some of your past accomplishments?
 
 2.2. Weaknesses:
 
-- Are there any tasks you don't feel like doing?
+- Are there any tasks you don't like to do?
 - What are your qualities that people around you consider your weaknesses?
-- Do you have any bad work-related habits? (tardiness, temper tantrums, lack of stress tolerance, etc.);
-- Do you have any character traits that block you from moving toward your goal?
+- Do you have any bad work habits? (Lateness, temper tantrums, lack of stress tolerance, etc.)
+- Do you have any character traits that prevent you from moving toward your goal?
 
 2.2. Opportunities:
 
-- What is the current state of your field of activity? What advantage does this present to you?
+- What is the current state of your field of activity? What are the advantages?
 - What innovative technologies will accelerate the achievement of your goal?
-- What changes and patterns are seen in the industry and the country as a whole? How is this going to help you?
+- What changes and patterns are you seeing in the industry and the country as a whole? How will this help you?
 - What mistakes can you highlight from the bad experiences of others working in this field?
 
 2.4. Threats:
 
-- What challenges do you face in performing your job duties?
-- Do you have any direct competitors? (e.g., for a promotion);
-- Can your weaknesses stall your progress toward your goal?
+- What challenges do you face in doing your job?
+- Do you have direct competition? (e.g., for promotion)
+- Can your weaknesses impede your progress toward your goal?
 
->Please leave feedback on the project in the [feedback form.](https://forms.gle/uiPQx2gWiZAVuphk7)
+>Please leave feedback on the project in [this form.](https://forms.gle/uiPQx2gWiZAVuphk7)
